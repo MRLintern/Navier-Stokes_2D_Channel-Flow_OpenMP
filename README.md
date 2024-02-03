@@ -16,7 +16,7 @@ What I will go over is the (linear) algebraic solvers: **Successive Over-Relaxat
 * Text Editor; any will do, but I've used `VS Code`.
 * `OpenMP`.
 * Knowledge of Fluid Dynamics.
-* General knowledge of Applied Mathematics: e.g. Numerical Linear Algebra and Numerical Partial Differential Equations.
+* General knowledge of **Applied Mathematics**: e.g. **Numerical Linear Algebra** and **Numerical Partial Differential Equations**.
 
 ## Running the Application
 
