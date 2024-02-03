@@ -4,7 +4,7 @@
 This repository can be seen as an extention of the serial-version of the `NavierStokes-2D-ChannelFlow`.
 This version incorporates multithreading via the OpenMP API and is developed in a 'modern' Object Oriented way, rather than the original procedural way.
 I assume that the user/reader is familar with Fluid Dyanmics and therefore the **Navier Stokes Equations**.
-What I will go over is the **Linear Algebraic Solvers**: **Successive Over-Relaxation Method (SOR)** and the **Jacobi Iterative Method**.
+What I will go over is the **Linear Algebraic Solvers**: **Successive Over-Relaxation (SOR) Method** and the **Jacobi Iterative Method**.
 
 ## Mathematics: Numerical Linear Algebra
 
