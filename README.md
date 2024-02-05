@@ -21,7 +21,11 @@ The Navier-Stokes Equations are solved via the *SIMPLE ALGORITHM*, a widely used
 
 ### Successive Over-Relaxation Method
 
+To be completed.
+
 ### Jacobi Iterative Method
+
+To be completed
 
 ## Requirements
 
