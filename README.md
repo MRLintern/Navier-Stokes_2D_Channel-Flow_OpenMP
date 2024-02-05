@@ -19,6 +19,10 @@ The Navier-Stokes Equations are solved via the *SIMPLE ALGORITHM*, a widely used
 
 ## Mathematics: Numerical Linear Algebra
 
+### Successive Over-Relaxation Method
+
+### Jacobi Iterative Method
+
 ## Requirements
 
 * Software developed on `Ubuntu 20.04`.
