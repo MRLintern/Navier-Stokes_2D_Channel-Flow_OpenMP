@@ -8,7 +8,7 @@ What I will go over is the **Linear Algebraic Solvers**: **Successive Over-Relax
 
 ## The SIMPLE algorithm
 
-The Navier-Stokes Equations are solved via the *SIMPLE ALGORITHM*, a widely used numerical procedure in Computational Fluid Dynamics, where the acronym stands for:
+The Navier-Stokes Equations are solved via the *SIMPLE algorithm*, a widely used numerical procedure in Computational Fluid Dynamics, where the acronym stands for:
 
 * **S**: Semi-
 * **I**: Implicit
