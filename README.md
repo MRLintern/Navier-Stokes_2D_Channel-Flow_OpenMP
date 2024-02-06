@@ -5,6 +5,14 @@ This repository can be seen as an extention of the serial-version of the `Navier
 This version incorporates multithreading via the OpenMP API and is developed in a 'modern' Object Oriented way, rather than the original procedural way.
 I assume that the user/reader is familar with Fluid Dyanmics and therefore the **Navier-Stokes Equations**.
 What I will go over is the **Linear Algebraic Solvers**: **Successive Over-Relaxation (SOR) Method** and the **Jacobi Iterative Method**.
+I won't be focussing solely on Fortran like I did with the original solver. This time I will look using other languages too.
+For example:
+
+* C++17.
+* C.
+* Python.
+* MATLAB.
+* Rust.
 
 ## The SIMPLE algorithm
 
