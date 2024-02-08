@@ -8,7 +8,7 @@ What I will go over is the **Linear Algebraic Solvers**: **Successive Over-Relax
 I won't be focussing solely on Fortran like I did with the original solver. This time I will look using other languages too.
 For example:
 
-* C++17.
+* Modern C++.
 * C.
 * Python.
 * Rust.
@@ -43,7 +43,14 @@ To be completed
 
 * Software developed on `Ubuntu 20.04`.
 * `Make`.
-* `Fortran 90` and compiler `gfortran`.
+* `CMake`.
+* `C++`.
+* `C`.
+* `Fortran`.
+* `Rust`.
+* `Python 3.x`.
+*  Compiler for Modern `C++` and `C`; e.g. `g++/gcc 13.1.0` or `clang-10`.
+*  Compiler for Fortran: e.g. `gfortran`.
 * Text Editor; any will do.
 * `OpenMP`.
 * Knowledge of Fluid Dynamics.
