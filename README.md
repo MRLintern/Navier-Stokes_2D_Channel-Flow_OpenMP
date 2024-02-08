@@ -1,4 +1,4 @@
-### Navier-Stokes 2D Open Channel Flow Solver
+# Navier-Stokes 2D Open Channel Flow Solver
 
 ## Introduction
 This repository can be seen as an extention of the serial-version of the `NavierStokes-2D-ChannelFlow`.
@@ -13,7 +13,7 @@ For example:
 * Python.
 * Rust.
 
-# Note
+### Note
 
 This is a work in progress so it will take time to complete as I will be covering multiple languages.
 At present, the solver is being developed in Fortran.
