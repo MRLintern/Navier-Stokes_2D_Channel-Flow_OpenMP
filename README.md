@@ -13,6 +13,11 @@ For example:
 * Python.
 * Rust.
 
+# Note
+
+This is a work in progress so it will take time to complete as I will be covering multiple languages.
+At present, the solver is being developed in Fortran.
+
 ## The SIMPLE algorithm
 
 The Navier-Stokes Equations are solved via the *SIMPLE algorithm*, a widely used numerical procedure in Computational Fluid Dynamics, where the acronym stands for:
