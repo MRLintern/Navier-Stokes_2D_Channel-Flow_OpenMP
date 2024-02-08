@@ -8,10 +8,10 @@ What I will go over is the **Linear Algebraic Solvers**: **Successive Over-Relax
 I won't be focussing solely on Fortran like I did with the original solver. This time I will look using other languages too.
 For example:
 
-* Modern C++.
-* C.
-* Python.
-* Rust.
+* `Modern C++`.
+* `C`.
+* `Python`.
+* `Rust`.
 
 ### Note
 
