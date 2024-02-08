@@ -11,7 +11,6 @@ For example:
 * C++17.
 * C.
 * Python.
-* MATLAB.
 * Rust.
 
 ## The SIMPLE algorithm
